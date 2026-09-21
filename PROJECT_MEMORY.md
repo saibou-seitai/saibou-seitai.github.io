@@ -7,6 +7,7 @@
 - 渡邉和明（食善師）のデジタル名刺サイト
 - GitHub Pagesで公開予定
 - 公開用リポジトリ: `https://github.com/saibou-seitai/saibou-seitai.github.io.git`（2026-09-21、ユーザー提供）
+- 初回コミット: `113f130`（2026-09-21）。GitHubへの認証完了後に `main` へプッシュする。
 - 公開対象は `/docs` フォルダ
 - HTML、CSS、JavaScriptのみを使用
 - デザインは案3「和モダン」で確定
